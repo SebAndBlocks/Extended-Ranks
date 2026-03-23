@@ -1,14 +1,15 @@
-# Nautical Ranks
+# Extended Ranks
 
 A resource pack for Java and Bedrock that adds custom ranks, compatible with Geyser. All ranks are free and easy to install - no plugins required, just a resource pack.
 
+Forked from Nautical Ranks
+
 ## Features
 
-- Geyser Compatible
-- No plugins needed
-- Java & Bedrock Support
-- Free
-- Custom Rank Designs
+- Geyser Support
+- Beautiful Rank Designs
+- HQ Emojis
+- Free & Simple to Setup
 
 ![Ranks Image](https://i.postimg.cc/0NMQF8k2/image.png)
 
@@ -16,46 +17,38 @@ A resource pack for Java and Bedrock that adds custom ranks, compatible with Gey
 
 | Rank | Glyph |
 |------|-------|
-| Member |  | 
-| Media |  | 
-| Manager |  | 
-| Helper |  | 
-| MVP |  | 
-| MVP+ |  | 
-| MVP++ |  | 
-| Mod |  | 
-| Noob |  | 
-| Owner |  | 
-| Admin |  | 
-| Pro |  | 
-| Twitch |  | 
-| OG |  | 
-| Builder |  | 
-| VIP |  | 
-| VIP+ |  | 
-| Dev |  | 
-| Designer |  | 
-| God |  | 
-| Elite |  | 
-| Elite+ |  | 
-| YouTube |  | 
-| Broadcast |  | 
-| Partner |  | 
-| NPC |  | 
+| GOD |  | 
+| Admin |  | 
+| OR Clan |  | 
+| Builder |  | 
+| Nerd |  | 
+| VIP |  | 
+| VIP+ |  | 
+| Unused 8 |  | 
+| Unused 9 |  | 
+| Unused 10 |  | 
+| Unused 11 |  | 
+| Unused 12 |  | 
+| Unused 13 |  | 
+| Unused 14 |  | 
+| Unused 15 |  | 
+| Unused 16 |  | 
+| Unused 17 |  | 
+| Unused 18 |  | 
+| Unused 19 |  | 
+| Unused 20 |  | 
+| Unused 21 |  | 
+| Unused 22 |  | 
+| Unused 23 |  | 
+| Unused 24 |  | 
+| Unused 25 |  | 
+| Unused 26 |  | 
 
 ## Installation
-Kasaisora Tutorial: https://www.youtube.com/watch?v=2clJmbuH_t0&t=17s
 ### Java Edition
 ```bash
-resource-pack=https://nauticalhosting.org/Nautical-Ranks-V3-Java.zip
-resource-pack-sha1=6c47421e9cbc87bc0270364548a6c00da1340a46
+resource-pack=[COMING SOON]
 ```
 
 ### Bedrock Edition
-Download directly from this github or our website
-
-## Support
-- Email: support@nauticalhosting.org
-- Discord: [Join our community](https://discord.gg/NedHt6FVwj)
-
-![Nautical Services Logo](https://i.postimg.cc/gj6SSb7W/Nautical-Services-Bot.png)
+Download directly from this github (Coming Soon)...
