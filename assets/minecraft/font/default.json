@@ -1,0 +1,53 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/god.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+	},
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/admin.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/or.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/builder.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+	},
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/nerd.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/vip.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:ranks/vip-plus.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [""]
+        }
+    ]
+}
