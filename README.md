@@ -15,14 +15,14 @@ Forked from Nautical Ranks
 
 | Rank Title | Char | Preview |
 |------|-------|------------|
-| GOD |  | ![GOD Rank Preview](https://raw.githubusercontent.com/SebAndBlocks/Extended-Ranks/refs/heads/main/assets/minecraft/textures/ranks/god.png) |
-| Admin |  | ![ADMIN Rank Preview](https://raw.githubusercontent.com/SebAndBlocks/Extended-Ranks/refs/heads/main/assets/minecraft/textures/ranks/admin.png) |
-| OR |  | ![OR Rank Preview](https://raw.githubusercontent.com/SebAndBlocks/Extended-Ranks/refs/heads/main/assets/minecraft/textures/ranks/or.png) |
-| Builder |  | ![Builder Rank Preview](https://raw.githubusercontent.com/SebAndBlocks/Extended-Ranks/refs/heads/main/assets/minecraft/textures/ranks/builder.png) |
-| Nerd |  | ![_nerd_ Rank Preview](https://raw.githubusercontent.com/SebAndBlocks/Extended-Ranks/refs/heads/main/assets/minecraft/textures/ranks/nerd.png) |
-| VIP |  | ![VIP Rank Preview](https://raw.githubusercontent.com/SebAndBlocks/Extended-Ranks/refs/heads/main/assets/minecraft/textures/ranks/vip.png) |
-| VIP+ |  | ![VIP+ Rank Preview](https://raw.githubusercontent.com/SebAndBlocks/Extended-Ranks/refs/heads/main/assets/minecraft/textures/ranks/vip-plus.png) |
-| idiot |  | ![_idiot_ Rank Preview](https://raw.githubusercontent.com/SebAndBlocks/Extended-Ranks/refs/heads/main/assets/minecraft/textures/ranks/idiot.png) |
+| GOD |  | ![GOD Rank Preview](https://raw.githubusercontent.com/SebAndBlocks/Extended-Ranks/refs/heads/main/java/assets/minecraft/textures/ranks/god.png) |
+| Admin |  | ![ADMIN Rank Preview](https://raw.githubusercontent.com/SebAndBlocks/Extended-Ranks/refs/heads/main/java/assets/minecraft/textures/ranks/admin.png) |
+| OR |  | ![OR Rank Preview](https://raw.githubusercontent.com/SebAndBlocks/Extended-Ranks/refs/heads/main/java/assets/minecraft/textures/ranks/or.png) |
+| Builder |  | ![Builder Rank Preview](https://raw.githubusercontent.com/SebAndBlocks/Extended-Ranks/refs/heads/main/java/assets/minecraft/textures/ranks/builder.png) |
+| Nerd |  | ![_nerd_ Rank Preview](https://raw.githubusercontent.com/SebAndBlocks/Extended-Ranks/refs/heads/main/java/assets/minecraft/textures/ranks/nerd.png) |
+| VIP |  | ![VIP Rank Preview](https://raw.githubusercontent.com/SebAndBlocks/Extended-Ranks/refs/heads/main/java/assets/minecraft/textures/ranks/vip.png) |
+| VIP+ |  | ![VIP+ Rank Preview](https://raw.githubusercontent.com/SebAndBlocks/Extended-Ranks/refs/heads/main/java/assets/minecraft/textures/ranks/vip-plus.png) |
+| idiot |  | ![_idiot_ Rank Preview](https://raw.githubusercontent.com/SebAndBlocks/Extended-Ranks/refs/heads/main/java/assets/minecraft/textures/ranks/idiot.png) |
 | Unused 9 |  | 
 | Unused 10 |  | 
 | Unused 11 |  | 
