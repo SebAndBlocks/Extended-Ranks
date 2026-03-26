@@ -15,8 +15,8 @@ Forked from Nautical Ranks
 
 ## Available Ranks
 
-| Rank | Glyph |
-|------|-------|
+| Rank | Glyph | Preview |
+|------|-------|------------|
 | GOD |  | 
 | Admin |  | 
 | OR Clan |  | 
@@ -24,7 +24,7 @@ Forked from Nautical Ranks
 | Nerd |  | 
 | VIP |  | 
 | VIP+ |  | 
-| Unused 8 |  | 
+| idiot |  | 
 | Unused 9 |  | 
 | Unused 10 |  | 
 | Unused 11 |  | 
@@ -43,6 +43,8 @@ Forked from Nautical Ranks
 | Unused 24 |  | 
 | Unused 25 |  | 
 | Unused 26 |  | 
+
+(personally i use the idiot rank for anyone on my server who has served more than 2 non-perma bans)
 
 ## Installation
 ### Java Edition
