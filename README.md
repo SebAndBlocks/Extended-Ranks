@@ -11,8 +11,6 @@ Forked from Nautical Ranks
 - HQ Emojis
 - Free & Simple to Setup
 
-![Ranks Image](https://i.postimg.cc/0NMQF8k2/image.png)
-
 ## Available Ranks
 
 | Rank Title | Char | Preview |
